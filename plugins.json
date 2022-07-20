@@ -14,12 +14,12 @@
 }, {
   "projectUrl": "https://github.com/deceivedfx/unethicalite-plugins",
   "provider": "deceivedfx",
-  "name": "Unethical Agility",
-  "description": "Completes Rooftop agility courses",
-  "id": "unethicalagility-plugin",
+  "name": "Sneaky Mud Crafter",
+  "description": "Sneakily craft mud runes",
+  "id": "sneakymudcrafter-plugin",
   "releases": [{
     "date": "2022-07-19",
-    "sha512sum": "5F94D05F01662F24BC5D920194109377EB9C579815BA67933691A8111295BF4C7084BC065C925BE742D43103DEABAD38F21EBB32D73CEAB29740B07325347883",
+    "sha512sum": "86890260935C16D9B1905691F95172B23210133372BDABE6B9992A96C4F335747B5A92757DC29FE593E22B071D240E0A5918255D6258F8ECE12F51CFE9AB63B6",
     "version": "0.0.1",
     "url": "https://raw.githubusercontent.com/deceivedfx/unethicalite-plugins/master/sneaky-mudcrafter-0.0.1.jar",
     "requires": "^1.0.0"

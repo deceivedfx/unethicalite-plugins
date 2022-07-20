@@ -1,7 +1,7 @@
 version = "0.0.1"
 
-project.extra["PluginName"] = "Unethical Agility"
-project.extra["PluginDescription"] = "Completes Rooftop agility courses"
+project.extra["PluginName"] = "Sneaky Mud Crafter"
+project.extra["PluginDescription"] = "Sneakily craft mud runes"
 
 tasks {
     jar {
