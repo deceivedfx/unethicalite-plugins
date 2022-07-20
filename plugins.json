@@ -1,0 +1,27 @@
+[{
+  "projectUrl": "https://github.com/deceivedfx/unethicalite-plugins",
+  "provider": "deceivedfx",
+  "name": "iUtils",
+  "description": "iUtils Unethicalite",
+  "id": "iutils-plugin",
+  "releases": [{
+    "date": "2022-07-19",
+    "sha512sum": "03D5D16743B0BED26123BE04B598EDDCCAC7FE954DA4498ED784E76928C19EFFDD8B61BB290B343507638DE085D41C5910A269005574FA59B4EC81013084E3FA",
+    "version": "5.0.4-Unethicalite",
+    "url": "https://raw.githubusercontent.com/deceivedfx/unethicalite-plugins/master/iutils-5.0.4-Unethicalite.jar",
+    "requires": "^1.0.0"
+  }]
+}, {
+  "projectUrl": "https://github.com/deceivedfx/unethicalite-plugins",
+  "provider": "deceivedfx",
+  "name": "Unethical Agility",
+  "description": "Completes Rooftop agility courses",
+  "id": "unethicalagility-plugin",
+  "releases": [{
+    "date": "2022-07-19",
+    "sha512sum": "5F94D05F01662F24BC5D920194109377EB9C579815BA67933691A8111295BF4C7084BC065C925BE742D43103DEABAD38F21EBB32D73CEAB29740B07325347883",
+    "version": "0.0.1",
+    "url": "https://raw.githubusercontent.com/deceivedfx/unethicalite-plugins/master/sneaky-mudcrafter-0.0.1.jar",
+    "requires": "^1.0.0"
+  }]
+}]
