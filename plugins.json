@@ -1,19 +1,6 @@
 [{
   "projectUrl": "https://github.com/deceivedfx/unethicalite-plugins",
   "provider": "deceivedfx",
-  "name": "iUtils",
-  "description": "iUtils Unethicalite",
-  "id": "iutils-plugin",
-  "releases": [{
-    "date": "2022-07-19",
-    "sha512sum": "03D5D16743B0BED26123BE04B598EDDCCAC7FE954DA4498ED784E76928C19EFFDD8B61BB290B343507638DE085D41C5910A269005574FA59B4EC81013084E3FA",
-    "version": "5.0.4-Unethicalite",
-    "url": "https://raw.githubusercontent.com/deceivedfx/unethicalite-plugins/master/iutils-5.0.4-Unethicalite.jar",
-    "requires": "^1.0.0"
-  }]
-}, {
-  "projectUrl": "https://github.com/deceivedfx/unethicalite-plugins",
-  "provider": "deceivedfx",
   "name": "Sneaky Mud Crafter",
   "description": "Sneakily craft mud runes",
   "id": "sneakymudcrafter-plugin",
