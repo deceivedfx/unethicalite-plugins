@@ -5,10 +5,10 @@
   "description": "Sneakily craft mud runes",
   "id": "sneakymudcrafter-plugin",
   "releases": [{
-    "date": "2022-07-19",
+    "date": "2022-07-21",
     "sha512sum": "86890260935C16D9B1905691F95172B23210133372BDABE6B9992A96C4F335747B5A92757DC29FE593E22B071D240E0A5918255D6258F8ECE12F51CFE9AB63B6",
     "version": "0.0.1",
-    "url": "https://raw.githubusercontent.com/deceivedfx/unethicalite-plugins/master/sneaky-mudcrafter-0.0.1.jar",
+    "url": "https://raw.githubusercontent.com/deceivedfx/unethicalite-plugins/master/release/sneaky-mudcrafter-0.0.1.jar",
     "requires": "^1.0.0"
   }]
 }]
