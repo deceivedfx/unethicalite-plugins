@@ -24,7 +24,9 @@
  */
 
 object ProjectVersions {
-    const val unethicaliteVersion = "1.0.4-SNAPSHOT"
+
+    const val unethicaliteVersion = "1.0.4"
+
     const val apiVersion = "^1.0.0"
 }
 
