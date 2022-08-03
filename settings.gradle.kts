@@ -26,7 +26,9 @@
 rootProject.name = "unethicalite-plugins"
 
 
+include("sneaky-guardians")
 include("sneaky-mudcrafter")
+
 
 for (project in rootProject.children) {
     project.apply {
