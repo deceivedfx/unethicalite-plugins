@@ -9,21 +9,21 @@ public interface UnethicalZulrahConfig extends Config
 {
 	@ConfigItem(
 			keyName = "rangeGear",
-			name = "Range gear names (start equipped)",
-			description = "Start with ranged gear equipped"
+			name = "Ranged gear names",
+			description = ""
 	)
 	default String rangeGearNames()
 	{
-		return "";
+		return "Ancient d'hide body,Ancient chaps,Infinity boots,Toxic blowpipe,Ava's assembler";
 	}
 
 	@ConfigItem(
 			keyName = "mageGear",
 			name = "Mage gear names",
-			description = ""
+			description = "Ahrim's robetop,Ahrim's robeskirt,Trident of the swamp,Book of darkness"
 	)
 	default String mageGearNames()
 	{
-		return "";
+		return "Ahrim's robetop,Ahrim's robeskirt,Trident of the swamp,Book of darkness";
 	}
 }
