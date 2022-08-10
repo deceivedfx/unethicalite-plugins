@@ -14,7 +14,7 @@ public interface UnethicalPrayerConfig extends Config
 	)
 	default String configs()
 	{
-		return "TzTok-Jad:PROTECT_FROM_MAGIC:7592:8,TzTok-Jad:PROTECT_FROM_MISSILES:7593:8";
+		return "TzTok-Jad:PROTECT_FROM_MAGIC:7592:8\nTzTok-Jad:PROTECT_FROM_MISSILES:7593:8";
 	}
 
 	@ConfigItem(
@@ -23,6 +23,16 @@ public interface UnethicalPrayerConfig extends Config
 			description = "Turns the prayer off after NPC has attacked"
 	)
 	default boolean turnOffAfterAttack()
+	{
+		return false;
+	}
+
+	@ConfigItem(
+			keyName = "turnOnIfTargeted",
+			name = "Toggle on if new target",
+			description = "Turns the prayer on if a new NPC attacks you"
+	)
+	default boolean turnOnIfTargeted()
 	{
 		return false;
 	}
